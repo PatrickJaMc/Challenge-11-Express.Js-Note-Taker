@@ -25,7 +25,7 @@ Open terminal and install dependencies, once installed, simply open the html pag
 
 ## License
 
-
+MIT
 
 ## Contribute
 
